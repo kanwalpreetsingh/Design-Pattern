@@ -1,2 +1,2 @@
-# Design-Pattern
+# Design-Patterns
 Repository contain different types of pattern like Strategy Pattern Observer Pattern etc...
